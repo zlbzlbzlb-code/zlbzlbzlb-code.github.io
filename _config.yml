@@ -2,8 +2,8 @@
 title: ZLB Blog
 SEOTitle: 朱凌波的博客 | ZLB Blog
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
-description: "这里是 @Hux黄玄 的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
+email: 18251377382@163.com
+description: "这里是朱凌波的个人博客，与你一起发现更大的世界 | 要做一个有 swag 的程序员"
 keyword: "Web, JavaScript, React, React Native, 前端, 设计"
 url: "https://huangxuan.me" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
@@ -13,10 +13,10 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
+weibo_username: ZLB
+zhihu_username: ZLB
+github_username: ZLB
+twitter_username: ZLB
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
